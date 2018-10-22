@@ -1,2 +1,2 @@
-# nxcd.github.io
+# NextTalks
 NXCD development resources
